@@ -2,10 +2,10 @@ import { Text, View } from "react-native";
 
 import ScreenLayout from "@/components/ScreenLayout";
 
-export default function LiFT() {
+export default function Program() {
     return (
-        <ScreenLayout text="LiFT">
-                <Text>LiFT Page</Text>
+        <ScreenLayout text="Program">
+                <Text>Program Page</Text>
         </ScreenLayout>
     )
 }
